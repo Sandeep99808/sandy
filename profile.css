@@ -1,0 +1,180 @@
+.img1{
+    height:200px;
+    width:200px;
+    border:4px solid seagreen;
+    border-radius:600px;
+    margin-top:0px;
+    position:fixed;
+    top:10px;
+    z-index:4;
+    
+}
+#section1{
+    height:200px;
+    width:600px;
+    margin-left:250px;
+    margin-top:50px;
+    display:inline-block;
+}
+
+#section2{
+    margin-left:0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bolder;
+    font-size:20px;
+    color:black;
+    font-family:sans-serif;
+    padding-left:150px;
+    color:rgba(255,0,0,0.90)
+
+
+
+}
+#container{
+    height:500px;
+    width:1500px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+}
+#box1{
+    height:200px;
+    width:250px;
+    display:inline-block;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWNOHECWWhNjWxJ7F5Gi6sWrnjN-K50QsJ1Gns128fg&s);
+    background-repeat: no-repeat;
+    background-size: content;
+    padding-right:10px;
+    border-radius: 10px;
+    
+}
+
+#box2{
+    height: 200px;
+    width:250px;
+    display:inline-block;
+    background-color:aqua;
+    background-image: url(https://www.careerindia.com/college-photos/375x275/31748/ripucg-pic-4_1606823215.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+
+}
+
+#box3{
+    height:200px;
+    width:250px;
+    display:inline-block;
+    background-color:blueviolet;
+    background-image: url(https://storage.googleapis.com/ezap-prod/colleges/9569/sjr-college-of-science-arts-and-commerce-bangalore-campus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+#box4{
+        height:300px;
+        width:250px;
+        display:inline-block;
+        background-color:ghostwhite;
+        position:relative;
+        left:187px;
+        bottom:308px;
+        font-family:Arial, Helvetica, sans-serif;
+
+}
+
+#a1{
+    text-align:center;
+    background-color: blue;
+    border:2px solid black;
+    border-radius:4px;
+    color:azure;
+    position:relative;
+    top:10px;
+    left:30px;
+    height:50px;
+    width:300px;
+    text-decoration: none;
+
+}
+#box5{
+    height:300px;
+    width:250px;
+    display:inline-block;
+    background-color:ghostwhite;
+    position:relative;
+    left:371px;
+    bottom:325px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+ 
+#a2{
+
+        text-align:center;
+        background-color: blue;
+        border:2px solid black;
+        border-radius:4px;
+        color:azure;
+        position:relative;
+        top:10px;
+        left:30px;
+        height:50px;
+        width:300px;
+        text-decoration: none;
+    
+}
+
+#box6{
+    height:300px;
+    width:250px;
+    display:inline-block;
+    background-color:ghostwhite;
+    position:relative;
+    left:554px;
+    bottom:325px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+#a3{
+    text-align:center;
+    background-color: blue;
+    border:2px solid black;
+    border-radius:4px;
+    color:azure;
+    position:relative;
+    top:10px;
+    left:30px;
+    height:50px;
+    width:300px;
+    text-decoration: none;
+  
+}
+
+body{
+background-color:aqua;
+}
+
+h1{
+    font-family: Tilt Neon;
+    color:seagreen;
+    font-weight: bolder;
+}
+h5{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    
+
+}
+ #Contact{
+    position:absolute;
+    top:30px;
+    right:10px;
+ }
+ hr{
+    z-index:0;
+ }
